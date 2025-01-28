@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int. main(){
-    float a;
-    printf(You entered: ,&float ,a);
+    int a;
+    printf(You entered: ,&d ,a);
     return 0;
 }
